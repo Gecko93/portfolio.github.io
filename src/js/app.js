@@ -35,7 +35,7 @@ app.all('/secret', function(req, res, next) {
   next(); // pass control to the next handler
 });
 // wiki.js - Wiki route module
-var wiki = require('./wiki.js');
+var wiki = require('./wiki.js.js.js');
 // ...
 app.use('/wiki', wiki);
 
