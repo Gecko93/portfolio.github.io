@@ -1,0 +1,27 @@
+{
+  "name": "portfolio.github.io",
+  "version": "1.0.0",
+  "description": "portfolio site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gecko93/portfolio.github.io.git"
+  },
+  "keywords": [
+    "portfolio",
+    "developer",
+    "full-stack",
+    "node",
+    "npm",
+    "express"
+  ],
+  "author": "Patrick Dewey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gecko93/portfolio.github.io/issues"
+  },
+  "homepage": "https://github.com/Gecko93/portfolio.github.io#readme"
+}
